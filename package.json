@@ -1,7 +1,7 @@
 {
   "name": "teste2_git",
   "version": "1.0.0",
-  "description": "Teste yassss 2",
+  "description": "Criada estutura de pastas, mapeado elementos de login, fluxo de login com sucesso",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -10,6 +10,7 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
+    "chance": "^1.1.11",
     "cypress": "^13.8.0"
   }
 }
