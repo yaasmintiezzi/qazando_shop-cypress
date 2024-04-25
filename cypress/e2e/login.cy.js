@@ -1,6 +1,6 @@
 /// <reference types="cypress" />
 import { LOGIN } from "../support/pages/login/elementos";
-import MY_ACCOUNT from "../support/pages/minha-conta/metodos";
+import MY_ACCOUNT from "../support/pages/minha-conta/metodos"; //metodo
 
 describe('Login', () => {
 
@@ -19,6 +19,6 @@ describe('Login', () => {
             .should('be.visible')
             .click()
 
-        MY_ACCOUNT.fazValidacaoModal("Login realizado", `Olá, yasmintiezzi@gmail.com`)
+        MY_ACCOUNT.fazValidacaoModal("Login realizado", `Olá, yasmintiezzi@gmail.com`) //metodo
     });
 })
