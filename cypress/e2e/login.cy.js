@@ -18,7 +18,8 @@ describe('Login', () => {
         cy.get(LOGIN.BTN_LOGIN)
             .should('be.visible')
             .click()
+            .wait(2)
 
-        MY_ACCOUNT.fazValidacaoModal("Login realizado", `Olá, yasmintiezzi@gmail.com`) //metodo
+        MY_ACCOUNT.fazValidacaoModal("Login realizado", `Olá, yasmintiezzi@gmail.com`) //metodo alt
     });
 })
