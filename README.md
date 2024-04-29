@@ -8,8 +8,8 @@
 
 <H2> Após ter instalado o nodejs: </H2>
 <OL TYPE="1">
-  <LI>Clonar o projeto do github<BR></LI>
-  <LI>Executar o comando "npm install" dentro da pasta clonada, para instalar todas as dependências do projeto<BR></LI>
+  <LI>Clonar o projeto do github;<BR></LI>
+  <LI>Executar o comando "npm install" dentro da pasta clonada, para instalar todas as dependências do projeto;<BR></LI>
 </OL>
 
  <H2>Variáveis ​​de Ambiente:</H2>
