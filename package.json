@@ -1,7 +1,7 @@
 {
   "name": "teste2_git",
   "version": "1.0.0",
-  "description": "Criada estutura de pastas, mapeado elementos de login, fluxo de login com sucesso",
+  "description": "Criada estutura de pastas, fluxo de login com sucesso, fluxo de cadastro com sucesso e fluxo de informações da faturamento com sucesso.",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
