@@ -20,8 +20,16 @@
  </UL>
 
  <H2>Como executar os testes:</H2>
-  Para acompanhar a execução, no terminal execute o comando: "npm run test"; <BR>
-  Após alguns segundos o modo open do cypress é exibido, feito isso basta selecionar o teste desejado.
+ <H3>Modo Aberto:</H3>
+ <UL>
+   <LI>Para acompanhar a execução, no terminal execute o comando: "-npm run test"; <BR></LI>
+   <LI>Após alguns segundos o modo open do cypress é exibido, feito isso basta selecionar o teste desejado.</LI>
+ </UL>
+ <H3>Modo Sem Cabeça:</H3>
+ <UL>
+   <LI>Para rodar direto no terminal, execute o comando: "-npm run test:headless";</LI>
+ </UL>
+  
 
 
 
